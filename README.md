@@ -1,4 +1,4 @@
-# xmall_front
+# SCUT_MALL
 
 ## Project setup
 ```
